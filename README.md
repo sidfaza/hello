@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sid — Cybersecurity Enthusiast & IT Manager
+# 👋 Hi, I'm Sid — Cybersecurity Enthusiast & IT Lead
 
 ## 🔹 About Me  
 IT professional with over 15 years of experience in leading IT infrastructure and operations across Cloud (Azure, AWS, Office 365), Cybersecurity, SOC, and End-User Computing. Adept at managing cross-domain services and MSPs using ITSM frameworks (ITIL), aligning IT with business strategy, and driving project management and ROI. Proven track record in regulatory compliance, threat intelligence, and collaborating with vendors.
