@@ -6,7 +6,7 @@ IT professional with over 15 years of experience in leading IT infrastructure an
 ## 🔹 Core Skills & Technologies  
 - **Microsoft Azure** (Certified: AZ-104, AZ-305)
 - **SOC Operations & Incident Response**
-- **Wazuh** | **Splunk** (basic)
+- **Wazuh** | **Splunk** 
 - **Pentesting (Kali Linux)**
 - **Regulatory Compliance & Threat Intelligence**
 - **ITIL, ITSM, MSP Management**
